@@ -1,1 +1,1 @@
-# Compilation of tools, means and scenarios to give users cyber-sensitivity training
+# Compilation of tools, means and scenarios to increase users' cyber-sensitivity
